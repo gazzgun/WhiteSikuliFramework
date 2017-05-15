@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteSikuliFramework.Common", "src\WhiteSikuliFramework.Common\WhiteSikuliFramework.Common.csproj", "{57BA46A6-C288-4841-8B6D-34A05AEDD806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteSikuliFramework.PageObject", "WhiteSikuliFramework.PageObject\WhiteSikuliFramework.PageObject.csproj", "{1ED8C871-706D-4340-973C-148C7A424FAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteSikuliFramework.Specs", "src\WhiteSikuliFramework.Specs\WhiteSikuliFramework.Specs.csproj", "{D3D5D1E4-3703-41CD-B773-3C2C3F94C6D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteSikuliFramework.Specs", "WhiteSikuliFramework.Specs\WhiteSikuliFramework.Specs.csproj", "{D3D5D1E4-3703-41CD-B773-3C2C3F94C6D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteSikuliFramework.PageObject", "src\WhiteSikuliFramework.PageObject\WhiteSikuliFramework.PageObject.csproj", "{1ED8C871-706D-4340-973C-148C7A424FAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{57BA46A6-C288-4841-8B6D-34A05AEDD806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57BA46A6-C288-4841-8B6D-34A05AEDD806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57BA46A6-C288-4841-8B6D-34A05AEDD806}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1ED8C871-706D-4340-973C-148C7A424FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1ED8C871-706D-4340-973C-148C7A424FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1ED8C871-706D-4340-973C-148C7A424FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1ED8C871-706D-4340-973C-148C7A424FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D3D5D1E4-3703-41CD-B773-3C2C3F94C6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D3D5D1E4-3703-41CD-B773-3C2C3F94C6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3D5D1E4-3703-41CD-B773-3C2C3F94C6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3D5D1E4-3703-41CD-B773-3C2C3F94C6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED8C871-706D-4340-973C-148C7A424FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED8C871-706D-4340-973C-148C7A424FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED8C871-706D-4340-973C-148C7A424FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED8C871-706D-4340-973C-148C7A424FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
