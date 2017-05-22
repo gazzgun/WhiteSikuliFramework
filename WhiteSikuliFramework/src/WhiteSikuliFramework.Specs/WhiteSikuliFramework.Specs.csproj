@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Hooks\" />
+    <Folder Include="LivingDoc\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

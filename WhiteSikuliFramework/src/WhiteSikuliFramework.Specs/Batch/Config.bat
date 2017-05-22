@@ -6,8 +6,8 @@ COLOR 0a
 SET ProjectHome= C:\Software\Jenkins\workspace\WhiteSikuliFramework\WhiteSikuliFramework
 SET LivingDocFolder=%ProjectHome%\src\WhiteSikuliFramework.Specs\bin\Debug\LivingDoc
 SET FeatureFolder=%ProjectHome%\src\WhiteSikuliFramework.Specs\Features
-SET SpecsDLL=%ProjectHome%\src\WhiteSikuliFramework.Specs\bin\Debug\WhiteSikuliFramework.Specs.dll
-SET BDDTestProject="%ProjectHome%\src\WhiteSikuliFramework.Specs\WhiteSikuliFramework.Specs.csproj
+SET SpecsDLL=\src\WhiteSikuliFramework.Specs\bin\Debug\WhiteSikuliFramework.Specs.dll
+SET BDDTestProject="%ProjectHome%\src\WhiteSikuliFramework.Specs\WhiteSikuliFramework.Specs.csproj"
 
 
 :: UTILITIES
